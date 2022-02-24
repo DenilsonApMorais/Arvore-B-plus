@@ -1,2 +1,2 @@
 # ArvoreBplus
- Trabalho de Bando de Dados 2 versionado
+ Trabalho de Banco de Dados 2 versionado
